@@ -1,0 +1,22 @@
+# Cookies for domains related to kaggle.com.
+# This content may be pasted into a cookies.txt file and used by wget
+# Example:  wget -x --load-cookies cookies.txt http://www.kaggle.com/c/facebook-recruiting-iii-keyword-extraction/data
+#
+.www.kaggle.com	TRUE	/	FALSE	0	ARRAffinity	b1d8d957616205c8bda6b89c5c2762225c56d7a9fb6c01bd96679d7ba626a65c
+www.kaggle.com	FALSE	/	FALSE	0	__RequestVerificationToken	U-m4Ke2cQ-X2oTUdlEpcBN2FvDjRCr2gvdBwIZcxan8IVVsNe_YgNFook_Z0_hlR_X_fY02f-x3ft-kJWu-vclYw0dY1
+www.kaggle.com	FALSE	/	FALSE	0	WAWebSiteSID	92448f7eca61496c8d2b6fc0931a64d8
+www.kaggle.com	FALSE	/	FALSE	0	ASP.NET_SessionId	zun3intmvjzwfck1sz1uthlf
+.kaggle.com	TRUE	/	FALSE	1441176115.098678	.ASPXAUTH	C8C2054EB8033EDE009915D013DCAB63ECF124C720F4082343518F5D3F49565FF004FBB34567BE8B809E969AA13CD78CBE9FBF82EF33A0B5F6C1365EC926E2BF978FE5E40B24C905BB70F4F286E360C676BA4721
+.kaggle.com	TRUE	/	FALSE	1535879329	km_lv	x
+.kaggle.com	TRUE	/	FALSE	0	ARRAffinity	b1d8d957616205c8bda6b89c5c2762225c56d7a9fb6c01bd96679d7ba626a65c
+kaggle.com	FALSE	/	FALSE	0	WAWebSiteSID	cfd72b061e9649c0955a95bbb4ad3231
+.blog.kaggle.com	TRUE	/	FALSE	1441530637	__utma	176227318.1426992998.1378458637.1378458637.1378458637.1
+.blog.kaggle.com	TRUE	/	FALSE	0	__utmc	176227318
+.blog.kaggle.com	TRUE	/	FALSE	1394226637	__utmz	176227318.1378458637.1.1.utmcsr=google|utmccn=(organic)|utmcmd=organic|utmctr=(not%20provided)
+.kaggle.com	TRUE	/	FALSE	1536228075	km_uq	
+.kaggle.com	TRUE	/	FALSE	1441620085	__utma	158690720.1001162956.1378103969.1378384043.1378548073.6
+.kaggle.com	TRUE	/	FALSE	0	__utmc	158690720
+.kaggle.com	TRUE	/	FALSE	1394316085	__utmz	158690720.1378199331.2.2.utmcsr=google|utmccn=(organic)|utmcmd=organic|utmctr=(not%20provided)
+.kaggle.com	TRUE	/	FALSE	0	kvcd	1378548086698
+.kaggle.com	TRUE	/	FALSE	1536228086	km_ai	83949
+.kaggle.com	TRUE	/	FALSE	1536228086	km_ni	83949
